@@ -1,0 +1,35 @@
+/*
+Forever Agency
+#4BFFA5 - Greenish color
+#040F3D - drak blue
+#C6C4C5  - gray
+
+*/
+header {
+    background-color: #4BFFA5;
+}
+#title {
+    text-align: center;
+    color: #040F3D;
+
+}
+#img-div {
+
+
+}
+body {
+    background-color: #C6C4C5;
+    color: #040F3D;
+}
+#image {
+    max-width:100%;
+    max-height:100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50% */
+}
+#img-caption {
+    text-align: center;
+    color: #040F3D;
+}
