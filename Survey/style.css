@@ -1,0 +1,28 @@
+/*
+Forever Agency
+#4BFFA5 - Greenish color
+#040F3D - drak blue
+#C6C4C5  - gray*/
+
+#title {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+
+    text-size: auto;
+    background-color: #4BFFA5;
+}
+#base {
+    color:#040F3D;
+    background-color: #C6C4C5;
+    border: 5px solid #4BFFA5;
+    text-align: center;
+    padding: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 25px;
+}
+.bg-pic {
+    background-image: url("igo.jpg");
+    background-size: 100% 100%;
+}
